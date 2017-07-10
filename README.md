@@ -1,4 +1,4 @@
-# Flask testng Project
+# Flask Testing Project
 
 Goals:
 
